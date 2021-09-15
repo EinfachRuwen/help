@@ -20,17 +20,13 @@ Diese Anleitung wird sich um Android drehen, bei iOS sollte es jedoch ziemlich Ã
 1. Lade dir die App herunter.
 Hier findest du Element:
 
-iOS:
-https://apps.apple.com/app/vector/id1083446067
+[iOS](https://apps.apple.com/app/vector/id1083446067)
 
-Android: 
-https://play.google.com/store/apps/details?id=im.vector.app
+[Android](https://play.google.com/store/apps/details?id=im.vector.app)
 
-F-Droid:
-https://f-droid.org/packages/im.vector.app/
+[F-Droid](https://f-droid.org/packages/im.vector.app/)
 
-Android (apk): 
-https://f-droid.org/repo/im.vector.app_40102020.apk
+[APK](https://f-droid.org/repo/im.vector.app_40102020.apk)
 
 2. Installiere sie :D
 3. Klicke auf Beginne ![](https://i.ibb.co/Yd0dkYB/Screenshot-20210915-181114.jpg)
